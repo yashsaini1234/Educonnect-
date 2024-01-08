@@ -50,7 +50,7 @@
 <body>
 
     <header>
-        <h1>Your Website Name</h1>
+        <h1>Educonnect+</h1>
     </header>
 
     <nav>
@@ -61,11 +61,11 @@
 
     <section>
         <h2>Welcome to Your Website</h2>
-        <p>This is a simple website template. Customize it to meet your requirements.</p>
+        <p>This ia the website where you can build your carreir by enrolling in different courses.</p>
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Website Name. All rights reserved.</p>
+        <p>&copy; 2024 Educonnect+. All rights reserved.</p>
     </footer>
 
 </body>
