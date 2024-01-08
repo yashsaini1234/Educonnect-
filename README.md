@@ -1,11 +1,10 @@
-# Educonnect-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
+    <title>Educonnect+</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -60,7 +59,7 @@
     </nav>
 
     <section>
-        <h2>Welcome to Your Website</h2>
+        <h2>Welcome to our Website</h2>
         <p>This ia the website where you can build your carreir by enrolling in different courses.</p>
     </section>
 
